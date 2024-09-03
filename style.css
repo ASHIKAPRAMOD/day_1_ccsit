@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: brown;
+    background-color: rgb(251, 251, 251);
+    border: 2px solid rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+    font-style: oblique;
+    color: rgb(11, 10, 10);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(7, 5, 5);
+}
+h3{
+    text-align: center;
+    font-size: medium;
+    color: rgb(9, 9, 10);
+    background-color: rgb(248, 247, 246);
+    border: 2px solid black;
+}
+h4{
+    text-align: center;
+    font-size: large;
+    font-style: initial;
+    color: deepskyblue;
+    background-color: rgb(250, 249, 248);
+    border: 2px solid black;
+}
+h5{
+    text-align: center;
+    font-style: initial;
+    color: rgb(11, 26, 237);
+    background-color: rgb(253, 253, 251);
+    border: 2px solid black;
+}
+p{
+    color: rgb(238, 226, 226);
+    background-image: url("https://th-i.thgim.com/public/incoming/m3jo8v/article67113400.ece/alternates/FREE_1200/CALICUT%20UNIVERSITY.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+}
+li{
+    list-style: upper-roman;
+    color: rgb(0, 0, 251);
+}
+img{
+    width: 1500px;
+    height: 1000px;
+}
+table,th,td{
+    border: 2px solid rgb(244, 179, 0);
+    text-align: center;
+    width: 70%;
+}
+.sss{
+    background-color: rgb(1, 198, 63);
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
